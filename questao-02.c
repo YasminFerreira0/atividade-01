@@ -8,5 +8,5 @@ void main()
     scanf("%f", &A);
 
     V = 3.14159 * (R*R) * A;
-    printf("\nO volume da lata e: %f", V);
+    printf("\nO volume da lata e: %.2f", V);
 }
